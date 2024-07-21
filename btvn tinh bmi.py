@@ -9,11 +9,11 @@ elif x/y^2<18.5:
 elif x/y^2<25:
     print("Bình thường")
 elif x/y^2<30:
-    print("thằng béo")
+    print("Béo ")
 elif x/y^2<35:
-    print("thằng béo cấp độ 1")
+    print("béo cấp độ 1")
 elif x/y^2<40:
-    print("thằng béo cấp độ 2")
+    print("béo cấp độ 2")
 else:
-    print("thằng béo cấp độ 3")
+    print("béo cấp độ 3")
     
